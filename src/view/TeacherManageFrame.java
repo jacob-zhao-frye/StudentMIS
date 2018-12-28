@@ -68,6 +68,7 @@ public class TeacherManageFrame extends JInternalFrame {
 	 * Create the frame.
 	 */
 	public TeacherManageFrame() {
+		setTitle("\u6559\u5E08\u4FE1\u606F\u4FEE\u6539");
 		setBounds(100, 100, 752, 474);
 		setClosable(true);
 		setIconifiable(true);

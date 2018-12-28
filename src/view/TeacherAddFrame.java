@@ -57,6 +57,7 @@ public class TeacherAddFrame extends JInternalFrame {
 	 * Create the frame.
 	 */
 	public TeacherAddFrame() {
+		setTitle("\u6559\u5E08\u4FE1\u606F\u6DFB\u52A0");
 		setBounds(100, 100, 450, 300);
 		getContentPane().setLayout(new GridLayout(6,2, 0, 0));
 		setClosable(true);

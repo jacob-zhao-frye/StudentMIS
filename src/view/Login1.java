@@ -76,7 +76,7 @@ public class Login1 extends JFrame {
 	@SuppressWarnings({ "rawtypes", "unchecked" })
 	public Login1() {
 		setResizable(false);
-		setTitle("\u767B\u9646\u754C\u9762");
+		setTitle("\u7528\u6237\u767B\u5F55");
 		setDefaultCloseOperation(JFrame.EXIT_ON_CLOSE);
 		setBounds(100, 100, 448, 352);
 		contentPane = new JPanel();

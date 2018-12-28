@@ -61,6 +61,7 @@ public class MainFrame1 extends JFrame {
 	 */
 	
 	public MainFrame1(UserType usertype, Object UserObject) throws IOException {
+		setTitle("\u5B66\u751F\u4FE1\u606F\u7BA1\u7406\u7CFB\u7EDF");
 		setDefaultCloseOperation(JFrame.EXIT_ON_CLOSE);
 		setBounds(100, 100, 450, 300);
 		this.usertype = usertype;

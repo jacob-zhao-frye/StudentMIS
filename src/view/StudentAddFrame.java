@@ -68,6 +68,7 @@ public class StudentAddFrame extends JInternalFrame {
 	 */
 	@SuppressWarnings("rawtypes")
 	public StudentAddFrame() {
+		setTitle("\u5B66\u751F\u4FE1\u606F\u4FEE\u6539");
 		setBounds(100, 100, 395, 425);
 		getContentPane().setLayout(new GridLayout(6,2));
 		setClosable(true);

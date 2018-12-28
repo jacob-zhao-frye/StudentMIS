@@ -76,6 +76,7 @@ public class StudentManageFrame extends JInternalFrame {
 	 */
 	@SuppressWarnings("rawtypes")
 	public StudentManageFrame() {
+		setTitle("\u5B66\u751F\u4FE1\u606F\u4FEE\u6539");
 		setBounds(100, 100, 817, 478);
 		setClosable(true);
 		setIconifiable(true);

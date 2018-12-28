@@ -54,6 +54,7 @@ public class ClassManageFrame extends JInternalFrame {
 	 * Create the frame.
 	 */
 	public ClassManageFrame() {
+		setTitle("\u73ED\u7EA7\u4FE1\u606F\u4FEE\u6539");
 		setBounds(100, 100, 733, 431);
 		setClosable(true);
 		setIconifiable(true);
