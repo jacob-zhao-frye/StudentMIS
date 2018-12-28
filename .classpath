@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER/org.eclipse.jdt.internal.debug.ui.launcher.StandardVMType/JavaSE-1.8"/>
+	<classpathentry excluding="image/|image/" kind="src" path="src"/>
+	<classpathentry including="关于我们.png|删除.png|密码.png|帮助.png|年龄.png|搜索.png|班级介绍.png|班级列表.png|班级名称.png|班级管理.png|登录.png|确认.png|签到.png|签到列表.png|老师.png|课程列表.png" kind="src" path="res"/>
+	<classpathentry kind="lib" path="lib/mssql-jdbc-7.0.0.jre8.jar"/>
+	<classpathentry kind="lib" path="lib/quaqua.jar"/>
+	<classpathentry kind="lib" path="lib/beautyeye_lnf.jar"/>
+	<classpathentry kind="lib" path="lib/seaglass-demo.jar"/>
+	<classpathentry kind="output" path="bin"/>
+</classpath>
