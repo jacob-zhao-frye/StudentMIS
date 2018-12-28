@@ -168,7 +168,7 @@ public class Login1 extends JFrame {
 						});
 	}
 
-	protected void login() throws IOException {
+	protected void login() throws IOException { 
 		String userName = usernameTextField.getText().toString();
 		String password = passwordTextField.getText().toString();
 		UserType selectItem = (UserType) usertypeComboBox.getSelectedItem();
